@@ -1,6 +1,6 @@
 require "myGemObi/version"
 
-module MyGemObi
+class MyGemObi
   
   def sayHi
     "this is my first gem"
